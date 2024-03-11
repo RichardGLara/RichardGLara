@@ -1,7 +1,9 @@
 ### Hi there 👋
     My name is Richard G. Lara
-    I have been a technology enthusiast since I was a child and I've always enjoyed learning things and about them.
-    I've been using Linux and POSIX systems since 1997, from which I still learn a lot...
+    I have been a technology enthusiast since I was a child 
+        and I've always enjoyed learning things and about them.
+    I've been using Linux and POSIX systems since 1997, 
+        from which I still learn a lot...
     I have been working with technical support since 2000.
     My newest venture is in the world of programming.
 
