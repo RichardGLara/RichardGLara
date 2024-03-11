@@ -27,7 +27,7 @@
   
   </div>
  <p>
-  📫 How to reach me: <a href='mailto:lauranunes.c@gmail.com'>richardgrlara@gmail.com</a>
+  📫 How to reach me: <a href='mailto:richardgrlara@gmail.com'>richardgrlara@gmail.com</a>
 </p>
 </div>
 
