@@ -1,16 +1,28 @@
 ### Hi there 👋
-    My name is Richard G. Lara
-    I have been a technology enthusiast since I was a child 
-        and I've always enjoyed learning things and about them.
-        
-    I've been using Linux and POSIX systems since 1997, 
-        from which I still learn a lot...
-        
-    I have been working with technical support since 2000.
-    My newest venture is in the world of programming.
+    I've been a technology enthusiast since I was a child
+     and I have always enjoyed learning about many different things.
 
-<p>  A new developer from Minas Gerais, Brazil. </p>
-<p>  I'm a beginner in the art of codes. </p>
+     In addition to MS-Windows, I have been using Linux and POSIX systems since 1997,
+     from which I still learn and am surprised a lot to this day...
+
+     I have been working with technical support since 2000.
+     My newest venture is in the world of programming.
+    Since the end of 2023, I have been improving my skills in Python, HTML, CSS and JavaScript. 
+    My next step will be to learn some frameworks too.
+ 
+
+    "Meu nome é Richard G. Lara
+     Sou um entusiasta da tecnologia desde criança
+     e sempre gostei de aprender sobre muitas coisas diferentes.
+
+     Além do MS-Windows uso sistemas Linux e POSIX desde 1997,
+     com os quais ainda aprendo e me surpreendo muito até hoje...
+
+     Trabalho com suporte técnico desde 2000.
+     Meu mais novo empreendimento é no mundo da programação.
+    Desde o final de 2023, estou me aperfeiçoando em Python, HTML, CSS e JavaScript. 
+    Meu próximo passo será aprender algumas frameworks também.
+    "
 
 <div id="badges">
 
